@@ -1,6 +1,6 @@
 # Material Suplementar - EPPGEP
 
-Este repositório dispõe de tabelas em PDF que servem como material suplementar ao artigo de modelagem estatística dos casos de dengue em Pernambuco, utilizando métodos como dados em painel e Regressão Binomial Negativa Inflada de Zeros (ZINB).
+Este repositório disponibiliza um arquivo PDF contendo tabelas que servem como material suplementar ao artigo de modelagem estatística dos casos de dengue em Pernambuco, utilizando dados em painel e Regressão Binomial Negativa Inflada de Zeros (ZINB).
 
 ---
 
@@ -16,11 +16,11 @@ Este repositório dispõe de tabelas em PDF que servem como material suplementar
 
 - **Eduardo da Silva**  
   Departamento de Engenharia de Produção – UFPE  
-  📧 eduardo.es@ufpe.br
+  📧 [eduardo.es@ufpe.br](mailto:eduardo.es@ufpe.br)
 
 - **Maísa Mendonça Silva**  
   Departamento de Engenharia de Produção – UFPE  
-  📧 maisa.ufpe@yahoo.br
+  📧 [maisa.ufpe@yahoo.br](mailto:maisa.ufpe@yahoo.br)
 
 ---
 
