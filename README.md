@@ -1,11 +1,32 @@
 # Material Suplementar - EPPGEP
 
-Este repositório contém tabelas em PDF como material suplementar para o artigo de modelagem estatística de casos de dengue em Pernambuco com dados em painel e Regressão Binomial Negativa Inflada de Zeros (ZINB).
+Este repositório dispõe de tabelas em PDF que servem como material suplementar ao artigo de modelagem estatística dos casos de dengue em Pernambuco, utilizando métodos como dados em painel e Regressão Binomial Negativa Inflada de Zeros (ZINB).
 
-* X Encontro Científico e XII Encontro de Pesquisa e Pós-Graduação em Engenharia de Produção (24, 25 e 26 de set/2025, UNISINOS, Porto Alegre)
+---
 
-Autores: Eduardo da Silva e Maísa Mendonça Silva {eduardo.es@ufpe.br; maisa.ufpe@yahoo.br}
-Departamento de Engenharia de Produção – UFPE1
-Endereço: Av. da Arquitetura - Cidade Universitária, Recife - PE, 50740-550
+## Sobre o Evento
 
+**X Encontro Científico** &nbsp; | &nbsp; **XII Encontro de Pesquisa e Pós-Graduação em Engenharia de Produção**  
+**Datas:** 24 a 26 de setembro de 2025  
+**Local:** UNISINOS, Porto Alegre – RS
 
+---
+
+## Autores
+
+- **Eduardo da Silva**  
+  Departamento de Engenharia de Produção – UFPE  
+  📧 eduardo.es@ufpe.br
+
+- **Maísa Mendonça Silva**  
+  Departamento de Engenharia de Produção – UFPE  
+  📧 maisa.ufpe@yahoo.br
+
+---
+
+## Instituição
+
+Universidade Federal de Pernambuco – UFPE  
+Av. da Arquitetura, Cidade Universitária, Recife – PE, 50740-550
+
+---
